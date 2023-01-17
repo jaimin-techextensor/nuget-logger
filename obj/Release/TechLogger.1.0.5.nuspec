@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TechLogger</id>
+    <version>1.0.5</version>
+    <title>Tech InBuilt Logger</title>
+    <authors>TechLogger</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Serilog.AspNetCore" version="6.1.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.Environment" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Debug" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Elasticsearch" version="8.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Trials\TechLogger\bin\Release\net6.0\TechLogger.dll" target="lib\net6.0\TechLogger.dll" />
+  </files>
+</package>

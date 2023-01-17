@@ -1,0 +1,12 @@
+D:\Trials\TechLogger\bin\Release\net6.0\TechLogger.deps.json
+D:\Trials\TechLogger\bin\Release\net6.0\TechLogger.dll
+D:\Trials\TechLogger\bin\Release\net6.0\TechLogger.pdb
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.csproj.AssemblyReference.cache
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.AssemblyInfoInputs.cache
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.AssemblyInfo.cs
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.csproj.CoreCompileInputs.cache
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.dll
+D:\Trials\TechLogger\obj\Release\net6.0\refint\TechLogger.dll
+D:\Trials\TechLogger\obj\Release\net6.0\TechLogger.pdb
+D:\Trials\TechLogger\obj\Release\net6.0\ref\TechLogger.dll
